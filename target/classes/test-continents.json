@@ -1,0 +1,28 @@
+[
+	{
+		"continent": "Africa",
+		"countries": [
+			{
+				"name": "Nigeria",
+				"flag": "🇳🇬"
+			},
+			{
+				"name": "Ethiopia",
+				"flag": "🇪🇹"
+			}
+		]
+	},
+	{
+		"continent": "America",
+		"countries": [
+			{
+				"name": "USA",
+				"flag": "🇺🇸"
+			},
+			{
+				"name": "Brazil",
+				"flag": "🇧🇷"
+			}
+		]
+	}
+]
