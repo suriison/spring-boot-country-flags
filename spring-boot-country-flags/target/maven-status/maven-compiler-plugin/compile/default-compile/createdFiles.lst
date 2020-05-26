@@ -2,6 +2,7 @@ com/continent/countryflags/ContinentService.class
 com/continent/countryflags/IContinentsService.class
 com/continent/countryflags/Country.class
 com/continent/countryflags/CountryFlagController.class
+com/continent/util/Util$1.class
 com/continent/countryflags/CountriesRestURIConstants.class
 com/continent/util/Util.class
 com/continent/countryflags/Continent.class

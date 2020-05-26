@@ -6,5 +6,6 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface ContinentsRepository extends MongoRepository<Continent, Long> {
-   List<Continent> findAll();
+    List<Continent> findAll();
+    List<Continent> insert(List<Continent> entities);
 }
